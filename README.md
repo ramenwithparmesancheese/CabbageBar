@@ -1,5 +1,5 @@
 # CabbageBar
-Introducing Cabbage Bar. Cabbage Bar is an online chat software that is simple, yet pretty good. 
+Introducing Cabbage Bar. Cabbage Bar is a simple, yet pretty good online chat software that uses PubNub API. 
 
 ### Backstory
 
