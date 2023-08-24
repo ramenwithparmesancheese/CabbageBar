@@ -18,12 +18,12 @@ ONLINE USERS - To check which users are online (currently, it is quite buggy.) c
 CREATING A PRIVATE CHANNEL - When you press the button to create a channel, it will generate a private channel link (that it will automatically redirect you to). To share it to your friends, just copy the link from the tab bar.
 
 #### Lacking Features/Bugs
-⏪ Add Message history
-👗 Merge with zfex77 styling.
-⚫️ Add dark mode.
-📋 Image from clipboard functionality
-🏫 APS sign in via Google
-🪳 Links/Sidebar still under construction
+- ⏪ Add Message history 
+- 👗 Merge with zfex77 styling.
+- ⚫️ Add dark mode.
+- 📋 Image from clipboard functionality
+- 🏫 APS sign in via Google
+- 🪳 Links/Sidebar still under construction
 
 #### Features SimpleChat doesn't have that Cabbage Bar does
 - Unique and editable styling
