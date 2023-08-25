@@ -41,4 +41,4 @@ Contributions and Collabs: Zfex77
 <img width="547" alt="Screenshot 2023-08-24 at 6 50 58 PM" src="https://github.com/ramenwithparmesancheese/CabbageBar/assets/74465738/d9fc8951-1947-4468-80b1-68af00dfa594">
 
 
-> ⚠️ [Socrates](https://github.com/ramenwithparmesancheese) and [zfex77] (https://github.com/zfex77) are not responsible for the actions of SimpleChat or Cabbage Bar's users.
+> ⚠️ [Socrates](https://github.com/ramenwithparmesancheese) and [zfex77](https://github.com/zfex77) are not responsible for the actions of SimpleChat or Cabbage Bar's users.
