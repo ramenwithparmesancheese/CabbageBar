@@ -35,7 +35,7 @@ Contributions and Collabs: Zfex77
 
 ### Give Me Credit!
 
-<!--- ----------------------------------------------
+**<!-- ----------------------------------------------
  * Created by Socrates (ramenwithparmesancheese)
  * Licensed under FreeBSD License.
  * See https://github.com/ramenwithparmesancheese/CabbageBar for more info
@@ -43,7 +43,7 @@ Contributions and Collabs: Zfex77
  * ---------------------------------------------- 
 
  Inspired by Cabbage Bar
---->
+-->**
 
 
 > ⚠️ [Socrates](https://github.com/ramenwithparmesancheese) and [zfex77] (https://github.com/zfex77) are not responsible for the actions of SimpleChat or Cabbage Bar's users.
