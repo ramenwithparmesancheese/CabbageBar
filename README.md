@@ -9,7 +9,7 @@ Most people in my school use Google Chat and it was good and peaceful for a whil
 
 ## How to use Cabbage Bar
 
-There is no current way for the public to access Cabbage Bar, but to access SimpleChat, the URL link is simplechat.pages.dev or 1simplechat.pages.dev.
+There is no current way for the public to access Cabbage Bar, but to access SimpleChat, the URL link is simplechat.pages.dev, 1simplechat.vercel.dev, or 1simplechat.pages.dev.
 
 MESSAGING - Well for messaging it's quite simple, literally just type out the message and press the send button (or just the enter key).
 
