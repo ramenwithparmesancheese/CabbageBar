@@ -23,6 +23,7 @@ CREATING A PRIVATE CHANNEL - When you press the button to create a channel, it w
 ⏪ Add Message history <br>
 👗 Merge with zfex77 styling <br>
 ⚫️ Add dark mode <br>
+💬 Online Hosted website
 📋 Image from clipboard functionality <br>
 🏫 APS sign in via Google <br>
 🪳 Links/Sidebar still under construction <br>
