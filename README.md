@@ -1,10 +1,11 @@
-<img width="438" alt="Screenshot_2023-08-24_at_6 52 19_PM-removebg-preview" src="https://github.com/ramenwithparmesancheese/CabbageBar/assets/74465738/3ce486fa-7886-4a4b-a831-552eabc010d8">
+<img width="1000" alt="logo" src="https://github-production-user-asset-6210df.s3.amazonaws.com/139940269/263422549-b5bb0fb1-c474-4d2a-bb56-b3475d3442f0.png">
 
-________________________________________________________________________________ 
+***
 
 Introducing Cabbage Bar. Cabbage Bar is a simple, yet pretty good online chat software that uses PubNub API. 
 
 ### Backstory
+
 
 Most people in my school use Google Chat and it was good and peaceful for a while. Me and my friends added a chat that we eventually named Cabbage. It's been through a lot and it has been through being a dead chat [which is when we named it Cabbage Bar] to bombing Google Chrome with notifications. It lasted for 2 years before A kid ended it all by adding 1000 people to one single chat and it got banned. Although most people have phones to message their friends, there is no quick way to do it in school. That's where Cabbage Bar comes in.
 
