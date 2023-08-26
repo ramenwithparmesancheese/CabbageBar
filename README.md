@@ -2,24 +2,27 @@
 
 ***
 
-Introducing Cabbage Bar. Cabbage Bar is a simple, yet pretty good online chat software that uses PubNub API. 
+Cabbage Bar is a simple yet effective chat web application that uses the PubNub API!
 
-### Backstory
+## What even is this?
+It is an instance of [simplechat](https://github.com/zfex77/simplechat), serving as a alternative of the *now* unaccessible google chat in the [Aurora Public Schools District](https://www.aurorak12.org/). It should be noted that this is a seperate repository and work done here will not nessecarily appear in [simplechat](https://github.com/zfex77/simplechat).
+
+**Backstory**
+Most people in my school used Google Chat and it was good and peaceful for a while. Me and my friends added a chatroom that we eventually named Cabbage. It's been through a lot and it has been through being a dead chat, (which is when we named it Cabbage Bar) to bombing chrome with notifications. It was accessible for two years until a kid ended it by adding over 1000+ people to a single group and it got banned by the school adminstrators. Even though most people have phones to message their friends, there's no other way to communicate between classes, without using slow and boring email. That's where Cabbage Bar comes in.
 
 
-Most people in my school use Google Chat and it was good and peaceful for a while. Me and my friends added a chat that we eventually named Cabbage. It's been through a lot and it has been through being a dead chat [which is when we named it Cabbage Bar] to bombing Google Chrome with notifications. It lasted for 2 years before A kid ended it all by adding 1000 people to one single chat and it got banned. Although most people have phones to message their friends, there is no quick way to do it in school. That's where Cabbage Bar comes in.
 
 ## How to use Cabbage Bar
 
 There is no current way for the public to access Cabbage Bar, but to access SimpleChat, the URL link is simplechat.pages.dev, 1simplechat.vercel.dev, or 1simplechat.pages.dev.
 
-MESSAGING - Well for messaging it's quite simple, literally just type out the message and press the send button (or just the enter key).
+**MESSAGING** - Well for messaging it's quite simple, literally just type out the message and press the send button (or just the enter key).
 
-IMAGES - For showing images, just paste the direct image link address (only works with GIFs, PNGs, and JPG/JPEGs).
+**IMAGES** - For showing images, just paste the direct image link address (only works with GIFs, PNGs, and JPG/JPEGs).
 
-ONLINE USERS - To check which users are online (currently, it is quite buggy.) click the icon at the top-right corner and it should open a page that shows the current online users.
+**ONLINE USERS** - To check which users are online (currently, it is quite buggy.) click the icon at the top-right corner and it should open a page that shows the current online users.
 
-CREATING A PRIVATE CHANNEL - When you press the button to create a channel, it will generate a private channel link (that it will automatically redirect you to). To share it to your friends, just copy the link from the tab bar.
+**CREATING A PRIVATE CHANNEL** - When you press the button to create a channel, it will generate a private channel link (that it will automatically redirect you to). To share it to your friends, just copy the link from the tab bar.
 
 #### Lacking Features/Bugs
 ⏪ Add Message history <br>
