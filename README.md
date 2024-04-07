@@ -35,6 +35,7 @@ There is no current way for the public to access Cabbage Bar, but to access Simp
 💬 Online Hosted website
 📋 Image from clipboard functionality <br>
 🏫 APS sign in via Google <br>
+🕵️ Unblocked from GoGuardian and Linewize (currently fixed by creating multiple different links) <br>
 🪳 Links/Sidebar still under construction <br>
 
 #### Features SimpleChat doesn't have that Cabbage Bar does
